@@ -35,15 +35,7 @@ pkg
 
 ## Usage
 
-Options:
-  -t <num>    Threads (default: 50)
-  -s <bytes>  Packet size (default: 600)
-  -r <num>    Rounds per second (default: 10)
-  -m <mode>   Attack mode: ping | connect | hybrid (default: hybrid)
-  -i <hciX>   Bluetooth interface (default: hci0)
-  --burst <t> <s>  Burst mode: threads seconds
-  --scan      Scan nearby devices first
-  -h          Show this help
+BLUETOOTHJ_AMMER      Show this help
 
 
 ### Basic Usage
